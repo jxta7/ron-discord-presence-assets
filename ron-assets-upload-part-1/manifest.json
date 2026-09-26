@@ -1,0 +1,193 @@
+{
+  "maps": {
+    "agency": {
+      "display_name": "The Spider",
+      "path": "maps/agency.png",
+      "source_original_filename": "T_Agency_Image.png"
+    },
+    "beachfront": {
+      "display_name": "Ends of the Earth",
+      "path": "maps/beachfront.png",
+      "source_original_filename": "T_Beachfront_Spawn_01.png"
+    },
+    "campus": {
+      "display_name": "Elephant",
+      "path": "maps/campus.png",
+      "source_original_filename": "T_Campus_Image.png"
+    },
+    "club": {
+      "display_name": "Neon Tomb",
+      "path": "maps/club.png",
+      "source_original_filename": "T_Club_Image.png"
+    },
+    "coyote": {
+      "display_name": "Rust Belt",
+      "path": "maps/coyote.png",
+      "source_original_filename": "T_Coyote_Image.png"
+    },
+    "datacenter": {
+      "display_name": "Sinuous Trail",
+      "path": "maps/datacenter.png",
+      "source_original_filename": "T_Datacenter_Image.png"
+    },
+    "dealer": {
+      "display_name": "Buy Cheap, Buy Twice",
+      "path": "maps/dealer.png",
+      "source_original_filename": "T_Dealer_Image.png"
+    },
+    "farm": {
+      "display_name": "Carriers of the Vine",
+      "path": "maps/farm.png",
+      "source_original_filename": "T_Farm_Image.png"
+    },
+    "gas": {
+      "display_name": "Thank You, Come Again",
+      "path": "maps/gas.png",
+      "source_original_filename": "T_Gas_Image.png"
+    },
+    "hospital": {
+      "display_name": "Relapse",
+      "path": "maps/hospital.png",
+      "source_original_filename": "T_Hospital_Spawn_01.png"
+    },
+    "importer": {
+      "display_name": "Greased Palms",
+      "path": "maps/importer.png",
+      "source_original_filename": "T_Importer_Image.png"
+    },
+    "meth": {
+      "display_name": "Twisted Nerve",
+      "path": "maps/meth.png",
+      "source_original_filename": "T_Meth_Image.png"
+    },
+    "penthouse": {
+      "display_name": "Ides of March",
+      "path": "maps/penthouse.png",
+      "source_original_filename": "T_Penthouse_Spawn_01.png"
+    },
+    "port": {
+      "display_name": "Hide and Seek",
+      "path": "maps/port.png",
+      "source_original_filename": "T_Port_Preview.png"
+    },
+    "ridgeline": {
+      "display_name": "A Lethal Obsession",
+      "path": "maps/ridgeline.png",
+      "source_original_filename": "T_Ridgeline_Image.png"
+    },
+    "sins": {
+      "display_name": "Sins of the Father",
+      "path": "maps/sins.png",
+      "source_original_filename": "T_Sins_Spawn_01.png"
+    },
+    "streamer": {
+      "display_name": "23 Megabytes a Second",
+      "path": "maps/streamer.png",
+      "source_original_filename": "T_Streamer_Image.png"
+    },
+    "valley": {
+      "display_name": "Valley of the Dolls",
+      "path": "maps/valley.png",
+      "source_original_filename": "T_Valley_Image.png"
+    },
+    "dorms": {
+      "display_name": "Dorms",
+      "path": "maps/dorms.png",
+      "source_original_filename": "T_Dorms_Image.png"
+    },
+    "lawmaker": {
+      "display_name": "Lawmaker",
+      "path": "maps/lawmaker.png",
+      "source_original_filename": "T_Lawmaker_Spawn_01.png"
+    },
+    "narcos": {
+      "display_name": "Narcos",
+      "path": "maps/narcos.png",
+      "source_original_filename": "T_Narcos_Image.png"
+    },
+    "boat": {
+      "display_name": "Mirage at Sea",
+      "path": "maps/boat.png",
+      "source_original_filename": "T_Boat_StartingPoint1.png"
+    },
+    "rig": {
+      "display_name": "Leviathan",
+      "path": "maps/rig.png",
+      "source_original_filename": "T_Rig_Spawn_01.png"
+    },
+    "island": {
+      "display_name": "3 Letter Triad",
+      "path": "maps/island.png",
+      "source_original_filename": "T_Island_Beach.png"
+    },
+    "fastfood": {
+      "display_name": "Hunger Strike",
+      "path": "maps/fastfood.png",
+      "source_original_filename": "T_FastFood_FrontEntrance.png"
+    },
+    "apartments": {
+      "display_name": "Stolen Valor",
+      "path": "maps/apartments.png",
+      "source_original_filename": "T_Apartments_01.png"
+    },
+    "pier": {
+      "display_name": "No Good Deed",
+      "path": "maps/pier.png",
+      "source_original_filename": "T_Pier_Spawn_01.png"
+    },
+    "bank": {
+      "display_name": "All Gods Burn",
+      "path": "maps/bank.png",
+      "source_original_filename": "T_Bank_MainStreet.png"
+    },
+    "tower": {
+      "display_name": "A New America",
+      "path": "maps/tower.png",
+      "source_original_filename": "T_Tower_MainStair.png"
+    }
+  },
+  "icons": {
+    "AR": {
+      "path": "icons/ar.png",
+      "source_original_filename": "SK_Rif_MCX_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "BR": {
+      "path": "icons/br.png",
+      "source_original_filename": "BP_Primary_G3A4_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "PDW": {
+      "path": "icons/pdw.png",
+      "source_original_filename": "SK_PIS_MP17_Base_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "SMG": {
+      "path": "icons/smg.png",
+      "source_original_filename": "SK_WP_SMG_UMP45_V2_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "SG": {
+      "path": "icons/sg.png",
+      "source_original_filename": "B1301_standard_hudicon_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "GL": {
+      "path": "icons/gl.png",
+      "source_original_filename": "SK_GL_M32A1_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    },
+    "LL": {
+      "path": "icons/ll.png",
+      "source_original_filename": "SK_Shotgun_W870LL_256.png",
+      "canvas": "512x512 transparent; source silhouette centered"
+    }
+  },
+  "hq": {
+    "station": {
+      "display_name": "Los Sueños Police Department",
+      "path": "hq/station.png",
+      "source_original_filename": "T_Station_Image.png"
+    }
+  }
+}
