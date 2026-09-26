@@ -1,0 +1,7 @@
+*.zip
+*.7z
+*.rar
+.env
+.env.*
+*.key
+*.pem
